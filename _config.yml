@@ -1,0 +1,15 @@
+header_pages:
+ - index.md
+ - about.md
+ - contact.md
+
+footer: >
+  <a href="https://twitter.com/yatoxpl" target="_blank">Twitter</a> - 
+  <a href="https://discord.bio/p/yatoxpl" target="_blank">Discord</a> - 
+  <a href="https://github.com/yatoxpl" target="_blank">Github</a>
+
+style: dark
+listen_for_clients_preferred_style: false
+
+plugins:
+  - jekyll-seo-tag
